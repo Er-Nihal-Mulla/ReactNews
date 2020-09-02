@@ -1,0 +1,42 @@
+h1 {
+	text-align:center;
+	color:red;
+}
+
+input[type="text"] {
+	text-align: center;
+	margin-left:400px;
+	border-radius:2px;
+	height:40px;
+	width:300px;
+}
+.example_a {
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ed3330;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  transition: all 0.4s ease 0s;
+  }
+  .example_a:hover {
+    background: #434343;
+    letter-spacing: 1px;
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+    transition: all 0.4s ease 0s;
+    }
+
+
+.content {
+	text-align: center;
+	background-color: #DC143C	;
+	padding:10px;
+	margin:20px;
+	height:40px;
+	border-radius:4px;
+	color:white;
+}
